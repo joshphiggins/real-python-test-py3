@@ -42,3 +42,10 @@ zlib-1.2.8-3
 +tornado-4.3-py35_1
 +traitlets-4.2.1-py35_0
 # install specs: ['notebook', 'python 3.5*']
+==> 2016-06-08 12:02:06 <==
+# cmd: /Users/joshhiggins/anaconda/envs/real-python-test_py3/bin/conda install -n real-python-test_py3 flask
++click-6.6-py35_0
++flask-0.11-py35_0
++itsdangerous-0.24-py35_0
++werkzeug-0.11.9-py35_0
+# install specs: ['flask', 'python 3.5*']
