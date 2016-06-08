@@ -1,0 +1,6 @@
+#!/bin/bash /Users/joshhiggins/anaconda/envs/real-python-test_py3/bin/python.app
+if __name__ == '__main__':
+    import sys
+    import IPython
+
+    sys.exit(IPython.start_ipython())

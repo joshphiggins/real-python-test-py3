@@ -1,0 +1,44 @@
+==> 2016-06-08 10:41:03 <==
+# cmd: /Users/joshhiggins/anaconda/bin/conda create --name real-python-test_py3 --force-pscheck python=3.5 --json
+openssl-1.0.2h-1
+pip-8.1.2-py35_0
+python-3.5.1-0
+readline-6.2-2
+setuptools-22.0.5-py35_0
+sqlite-3.13.0-0
+tk-8.5.18-0
+wheel-0.29.0-py35_0
+xz-5.0.5-1
+zlib-1.2.8-3
+# create specs: ['python 3.5*']
+==> 2016-06-08 10:46:47 <==
+# cmd: /Users/joshhiggins/anaconda/bin/conda install --force-pscheck --prefix /Users/joshhiggins/anaconda/envs/real-python-test_py3 notebook --json
++appnope-0.1.0-py35_0
++backports-1.0-py35_0
++decorator-4.0.9-py35_0
++entrypoints-0.2-py35_1
++get_terminal_size-1.0.0-py35_0
++ipykernel-4.3.1-py35_0
++ipython-4.2.0-py35_1
++ipython_genutils-0.1.0-py35_0
++jinja2-2.8-py35_1
++jsonschema-2.5.1-py35_0
++jupyter_client-4.2.2-py35_0
++jupyter_core-4.1.0-py35_0
++markupsafe-0.23-py35_2
++mistune-0.7.2-py35_1
++nbconvert-4.2.0-py35_0
++nbformat-4.0.1-py35_0
++notebook-4.2.1-py35_0
++path.py-8.2.1-py35_0
++pexpect-4.0.1-py35_0
++pickleshare-0.7.2-py35_0
++ptyprocess-0.5.1-py35_0
++pygments-2.1.3-py35_0
++python.app-1.2-py35_4
++pyzmq-15.2.0-py35_1
++simplegeneric-0.8.1-py35_1
++terminado-0.6-py35_0
++tornado-4.3-py35_1
++traitlets-4.2.1-py35_0
+# install specs: ['notebook', 'python 3.5*']

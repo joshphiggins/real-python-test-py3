@@ -1,0 +1,7 @@
+#!/Users/joshhiggins/anaconda/envs/real-python-test_py3/bin/python
+"""Launch the root jupyter command"""
+
+from jupyter_core.command import main
+
+if __name__ == '__main__':
+    main()

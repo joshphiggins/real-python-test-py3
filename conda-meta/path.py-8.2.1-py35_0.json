@@ -1,0 +1,34 @@
+{
+  "arch": "x86_64", 
+  "build": "py35_0", 
+  "build_number": 0, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64/", 
+  "date": "2016-04-19", 
+  "depends": [
+    "python 3.5*"
+  ], 
+  "files": [
+    "lib/python3.5/site-packages/__pycache__/path.cpython-35.pyc", 
+    "lib/python3.5/site-packages/__pycache__/test_path.cpython-35.pyc", 
+    "lib/python3.5/site-packages/path.py", 
+    "lib/python3.5/site-packages/path.py-0.0.0-py3.5.egg-info/PKG-INFO", 
+    "lib/python3.5/site-packages/path.py-0.0.0-py3.5.egg-info/SOURCES.txt", 
+    "lib/python3.5/site-packages/path.py-0.0.0-py3.5.egg-info/dependency_links.txt", 
+    "lib/python3.5/site-packages/path.py-0.0.0-py3.5.egg-info/requires.txt", 
+    "lib/python3.5/site-packages/path.py-0.0.0-py3.5.egg-info/top_level.txt", 
+    "lib/python3.5/site-packages/test_path.py"
+  ], 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/joshhiggins/anaconda/pkgs/path.py-8.2.1-py35_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "122dc4b9b06c74ccff04dd1ea543e57f", 
+  "name": "path.py", 
+  "platform": "osx", 
+  "requires": [], 
+  "size": 47989, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/path.py-8.2.1-py35_0.tar.bz2", 
+  "version": "8.2.1"
+}

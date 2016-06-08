@@ -1,0 +1,26 @@
+{
+  "arch": "x86_64", 
+  "build": "py35_1", 
+  "build_number": 1, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64/", 
+  "date": "2016-04-12", 
+  "depends": [
+    "python 3.5*"
+  ], 
+  "files": [
+    "lib/python3.5/site-packages/entrypoints.py"
+  ], 
+  "license": "MIT", 
+  "link": {
+    "source": "/Users/joshhiggins/anaconda/pkgs/entrypoints-0.2-py35_1", 
+    "type": "hard-link"
+  }, 
+  "md5": "0afdc2f915fb48982322ce3b97b9b789", 
+  "name": "entrypoints", 
+  "platform": "osx", 
+  "requires": [], 
+  "size": 3811, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/entrypoints-0.2-py35_1.tar.bz2", 
+  "version": "0.2"
+}

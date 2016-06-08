@@ -1,0 +1,42 @@
+{
+  "arch": "x86_64", 
+  "build": "py35_2", 
+  "build_number": 2, 
+  "channel": "https://repo.continuum.io/pkgs/free/osx-64/", 
+  "date": "2016-05-24", 
+  "depends": [
+    "python 3.5*"
+  ], 
+  "files": [
+    "lib/python3.5/site-packages/MarkupSafe-0.23-py3.5.egg-info/PKG-INFO", 
+    "lib/python3.5/site-packages/MarkupSafe-0.23-py3.5.egg-info/SOURCES.txt", 
+    "lib/python3.5/site-packages/MarkupSafe-0.23-py3.5.egg-info/dependency_links.txt", 
+    "lib/python3.5/site-packages/MarkupSafe-0.23-py3.5.egg-info/not-zip-safe", 
+    "lib/python3.5/site-packages/MarkupSafe-0.23-py3.5.egg-info/top_level.txt", 
+    "lib/python3.5/site-packages/markupsafe/__init__.py", 
+    "lib/python3.5/site-packages/markupsafe/__pycache__/__init__.cpython-35.pyc", 
+    "lib/python3.5/site-packages/markupsafe/__pycache__/_compat.cpython-35.pyc", 
+    "lib/python3.5/site-packages/markupsafe/__pycache__/_constants.cpython-35.pyc", 
+    "lib/python3.5/site-packages/markupsafe/__pycache__/_native.cpython-35.pyc", 
+    "lib/python3.5/site-packages/markupsafe/__pycache__/tests.cpython-35.pyc", 
+    "lib/python3.5/site-packages/markupsafe/_compat.py", 
+    "lib/python3.5/site-packages/markupsafe/_constants.py", 
+    "lib/python3.5/site-packages/markupsafe/_native.py", 
+    "lib/python3.5/site-packages/markupsafe/_speedups.c", 
+    "lib/python3.5/site-packages/markupsafe/_speedups.so", 
+    "lib/python3.5/site-packages/markupsafe/tests.py"
+  ], 
+  "license": "BSD", 
+  "link": {
+    "source": "/Users/joshhiggins/anaconda/pkgs/markupsafe-0.23-py35_2", 
+    "type": "hard-link"
+  }, 
+  "md5": "274214166da473ade1bf7a769e843ba2", 
+  "name": "markupsafe", 
+  "platform": "osx", 
+  "requires": [], 
+  "size": 24579, 
+  "subdir": "osx-64", 
+  "url": "https://repo.continuum.io/pkgs/free/osx-64/markupsafe-0.23-py35_2.tar.bz2", 
+  "version": "0.23"
+}
